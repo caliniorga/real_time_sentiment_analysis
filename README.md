@@ -1,1 +1,1 @@
-"# real_time_sentiment_analysis" 
+This project will involve collecting and analyzing real-time data from social networks (such as Twitter) to determine users' sentiment on certain topics or hashtags. The data will be stored in CassandraDB and analyzed using various Python libraries for natural language processing (NLP).
